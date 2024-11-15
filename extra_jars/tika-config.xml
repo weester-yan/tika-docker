@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <!-- <parsers etc.../> -->
+  <server>
+    <params>
+      <taskTimeoutMillis>600000</taskTimeoutMillis>
+    </params>
+  </server>
+</properties>
